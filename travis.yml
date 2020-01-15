@@ -18,3 +18,4 @@ after_success:
   - docker push nguyenchris/multi-nginx
   - docker push nguyenchris/multi-server
   - docker push nguyenchris/multi-worker
+  
